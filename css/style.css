@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color: antiquewhite;
+}
+
+.image-container {
+    text-align: center;
+    margin-bottom: 20px; /* espaço entre as imagens */
+}
+
+.image-container img {
+    width: 800px; /* largura desejada */
+    height: 300px; /* altura desejada */
+    object-fit: cover; /* ajusta a imagem sem distorcer */
+}
