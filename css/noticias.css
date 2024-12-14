@@ -9,7 +9,7 @@ body {
 }
 
 .noticia img {
-    width: 200px; /* largura desejada */
-    height: 150px; /* altura desejada */
+    width: 50px; /* largura desejada */
+    height: 25px; /* altura desejada */
     object-fit: cover; /* ajusta a imagem sem distorcer */
 }
