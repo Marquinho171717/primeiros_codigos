@@ -10,7 +10,7 @@ body {
 }
 
 .image-container img {
-    width: 800px; /* largura desejada */
-    height: 300px; /* altura desejada */
+    width: 10px; /* largura desejada */
+    height: 5px; /* altura desejada */
     object-fit: cover; /* ajusta a imagem sem distorcer */
 }
